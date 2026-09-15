@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../lib/add.h"
+#include "add.h"
 int main()
 {
 int a,b;
