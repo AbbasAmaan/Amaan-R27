@@ -1,0 +1,9 @@
+# Task 7 - OpenCV object detection
+task7_opencv_obj/build/
+task7_opencv_obj/opencv/
+task7_opencv_obj/opencv-build/
+task7_opencv_obj/opencv-install/
+
+# Task 8 - Half-duplex image transfer
+task8_half_duplex_image/client
+task8_half_duplex_image/server
